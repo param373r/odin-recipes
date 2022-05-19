@@ -1,0 +1,25 @@
+img{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    display: block;
+}
+body{
+    background-color: burlywood;
+}
+body > ol{
+    list-style-type: none;
+    width: 220px;
+    margin: 50px auto;
+}
+body h1{
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+}
+li{
+    margin-bottom: 10px;
+}
